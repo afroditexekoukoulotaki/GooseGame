@@ -60,5 +60,3 @@ public class Player {
         return this.name + " " + this.currentSpace;
     }
 }
-
-// test
